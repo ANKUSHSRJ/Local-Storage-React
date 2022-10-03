@@ -56,6 +56,8 @@ function App() {
         
       </nav>
       <text>hey mama</text>
+      <text>Ankush Check</text>
+      <text>Rolling wave</text>
 
 
     </div>
