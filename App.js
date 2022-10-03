@@ -52,8 +52,9 @@ function App() {
         <Link to='/SignUp'>Signup</Link>
         <Link to='/Login'>Login</Link>
         {/* <Link to='/GetDetails'>Login</Link> */}
+        
       </nav>
-      
+      <tex>hey mama</tex>
 
 
     </div>
