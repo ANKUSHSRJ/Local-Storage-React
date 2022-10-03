@@ -51,10 +51,11 @@ function App() {
       <nav>
         <Link to='/SignUp'>Signup</Link>
         <Link to='/Login'>Login</Link>
+        <Link to ='/HomePage'>HomePage</Link>
         {/* <Link to='/GetDetails'>Login</Link> */}
         
       </nav>
-      <tex>hey mama</tex>
+      <text>hey mama</text>
 
 
     </div>
